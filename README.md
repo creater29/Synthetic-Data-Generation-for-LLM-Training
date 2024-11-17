@@ -11,5 +11,5 @@ This project demonstrates the process of generating synthetic data to enhance tr
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/synthetic-data-llm-training.git
+git clone https://github.com/creater29/synthetic-data-llm-training.git
 cd synthetic-data-llm-training
