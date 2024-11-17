@@ -1,0 +1,13 @@
+synthetic-data-llm-training/
+├── data/
+│   ├── raw_data.csv
+│   ├── synthetic_data.csv
+├── notebooks/
+│   └── synthetic_data_generation.ipynb
+├── scripts/
+│   ├── generate_synthetic_data.py
+│   ├── fine_tune_model.py
+├── models/
+│   └── fine_tuned_model.pt
+├── requirements.txt
+└── README.md
