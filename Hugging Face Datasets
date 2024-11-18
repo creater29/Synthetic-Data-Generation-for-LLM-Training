@@ -1,0 +1,4 @@
+from datasets import load_dataset
+
+# Example: Load the 'imdb' dataset
+dataset = load_dataset('imdb')
